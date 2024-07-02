@@ -18,16 +18,20 @@ I enjoy learning new technologies and applying them, and I'm always up for new c
       <h1 align="center">Language</h1>
  <li>
  Bangla
- English  
+  
  </li>
+ <li> English</li>
  </div>
 
        
-- 🔭 I’m currently working on [ProductPulse](https://app.netlify.com/sites/sunny-medovik-f3cb2c/overview)
+<div>
+      <h2>My Projects</h2>
+      - 🔭 I’m currently working on [ProductPulse](https://app.netlify.com/sites/sunny-medovik-f3cb2c/overview)
 
 - 👯 I’m looking to collaborate on [Book Point](https://assingmnet-elevent-books.firebaseapp.com/)
 
 - 🤝 I’m looking for help with [Tourist Taiger](https://assingment-twn.firebaseapp.com/)
+</div>
 
 - 📫 How to reach me **tonmoy9828@gmail.com**
 
