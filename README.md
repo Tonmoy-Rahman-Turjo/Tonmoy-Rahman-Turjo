@@ -14,7 +14,13 @@ Project Preferences
 I enjoy learning new technologies and applying them, and I'm always up for new challenges. I love creating exciting projects and am motivated to solve technical problems.</h6>
 
 
-
+ <div>
+      <h1 align="center">Language</h1>
+ <li>
+ Bangla
+ English  
+ </li>
+ </div>
 
        
 - 🔭 I’m currently working on [ProductPulse](https://app.netlify.com/sites/sunny-medovik-f3cb2c/overview)
