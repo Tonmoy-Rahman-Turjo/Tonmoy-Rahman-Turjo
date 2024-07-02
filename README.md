@@ -1,3 +1,4 @@
+#hello
 
 
 
@@ -16,6 +17,7 @@
 
 ![A passionate frontend developer from Bangladesh](https://i.ibb.co/DLwDJwV/2.png)
        ##About Me
+       V<h2 align="center">About Me</h2>
     Hi, I'm Md. Shamim Mia . I am a professional front-end developer. I've been involved in the web development world for a long time and remain enthusiastic about exploring new horizons.
 
 Work Experience
@@ -35,7 +37,7 @@ I enjoy learning new technologies and applying them, and I'm always up for new c
 
 - 📫 How to reach me **tonmoy9828@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3  align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tonmoy-rahman-turjo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tonmoy-rahman-turjo/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/tonmoyrahman.turjo.officials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tonmoyrahman.turjo.officials" height="30" width="40" /></a>
