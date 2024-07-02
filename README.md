@@ -31,10 +31,11 @@ I enjoy learning new technologies and applying them, and I'm always up for new c
    </h4>
       Live Link: (https://app.netlify.com/sites/sunny-medovik-f3cb2c/overview)
 
-<h4>2.[Book Point] </h4>
+<h4>2.Book Point </h4>
 Live Link:(https://assingmnet-elevent-books.firebaseapp.com/)
 
-<h4> 3. [Tourist Taiger]</h4>
+ 
+<h4> 3. Tourist Taiger</h4>
 Live Link: (https://assingment-twn.firebaseapp.com/)
 </div>
 
