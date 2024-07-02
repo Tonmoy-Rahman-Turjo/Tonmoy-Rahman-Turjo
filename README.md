@@ -13,7 +13,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Tonmoy-Rahman-Turjo</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+![A passionate frontend developer from Bangladesh](https://i.ibb.co/DLwDJwV/2.png)
 
 - 🔭 I’m currently working on [ProductPulse](https://app.netlify.com/sites/sunny-medovik-f3cb2c/overview)
 
