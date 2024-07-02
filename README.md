@@ -26,13 +26,15 @@ I enjoy learning new technologies and applying them, and I'm always up for new c
        
 <div>
       <h2>My Projects</h2>
-     1.ProductPulse
+   <h4>
+           1.ProductPulse
+   </h4>
       Live Link: (https://app.netlify.com/sites/sunny-medovik-f3cb2c/overview)
 
-2.[Book Point] 
+<h4>2.[Book Point] </h4>
 Live Link:(https://assingmnet-elevent-books.firebaseapp.com/)
 
-3. [Tourist Taiger]
+<h4> 3. [Tourist Taiger]</h4>
 Live Link: (https://assingment-twn.firebaseapp.com/)
 </div>
 
