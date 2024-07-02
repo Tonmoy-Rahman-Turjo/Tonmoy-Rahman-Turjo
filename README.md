@@ -1,30 +1,18 @@
-#hello
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h1 align="center">Hi 👋, I'm Tonmoy-Rahman-Turjo</h1>
 
 ![A passionate frontend developer from Bangladesh](https://i.ibb.co/DLwDJwV/2.png)
-       ##About Me
-       V<h2 align="center">About Me</h2>
-    Hi, I'm Md. Shamim Mia . I am a professional front-end developer. I've been involved in the web development world for a long time and remain enthusiastic about exploring new horizons.
+      
+<h2 align="center">About Me</h2>
+<h6>    Hi, I'm Md. Shamim Mia . I am a professional front-end developer. I've been involved in the web development world for a long time and remain enthusiastic about exploring new horizons.
 
 Work Experience
 I have participated in various web development projects, including various professional web applications and e-commerce sites. I'm proficient in advanced HTML, CSS, and JavaScript, and I can create fast and user-friendly websites using these languages.
 
 Project Preferences
-I enjoy learning new technologies and applying them, and I'm always up for new challenges. I love creating exciting projects and am motivated to solve technical problems.
+I enjoy learning new technologies and applying them, and I'm always up for new challenges. I love creating exciting projects and am motivated to solve technical problems.</h6>
+
 
 
 
