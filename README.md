@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Tonmoy-Rahman-Turjo</h1>
+<h1 align="center">Hi 👋, I'm Md. Shamim Mia</h1>
 
 ![A passionate frontend developer from Bangladesh](https://i.ibb.co/DLwDJwV/2.png)
       
